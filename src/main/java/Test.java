@@ -7,7 +7,7 @@ public class Test {
 
     public static void main(String[] args) {
 
-        System.out.println("sadasdasdasdasdasasdasdasdasdasddas dad");
+        System.out.println("sadasdasdasdasdasdas dad");
         System.out.println("Hello Word~");
     }
 }

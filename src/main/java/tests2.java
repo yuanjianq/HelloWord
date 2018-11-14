@@ -1,3 +1,5 @@
+package PACKAGE_NAME;
+
 /**
  * @author yuanjianqiang
  * @email yuanjianqiang@dafy.com
